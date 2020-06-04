@@ -1,0 +1,147 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.navbar{
+   background-color: #195880 !important;  
+}
+.text-color:hover{
+    background-color: black !important;
+    border-radius: 20% !important;
+}
+
+.dropdown-item{
+    background-color: #195880 !important;
+    color: white !important;
+}
+
+.dropdown-item:hover{
+    background-color: black !important;
+
+}
+
+.text-color{
+    color: white !important;
+}
+
+.navbar-brand > img{
+    width: 50px;
+    height: 50px;
+}
+
+.navbar-brand >span{
+    margin-left: 20px;
+    font-size: larger;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+
+.carousel{
+    margin: 10px;
+}
+
+.carousel-inner{
+    
+    justify-content: space-around;
+
+}
+
+.fa-motorcycle{
+    font-size: 30px !important;
+    margin: 5px;
+}
+
+h5{
+    margin-top:5px !important;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.service{
+    display: flex;
+    box-shadow: 2px 4px 8px;
+    margin: 30px;
+    color: #5D6D7E ;     
+}
+
+.fa-thumbs-up{
+    font-size: 30px !important;
+    margin: 5px;
+}
+
+.card{
+    text-transform: capitalize;
+}
+
+.card-size{
+    width: 200px !important;
+    margin:50px ; 
+}
+
+
+.btn-primary{
+  background-color  : #5D6D7E !important ;
+  width: 100% !important;
+  
+}
+
+.card-title,.card-text{
+    text-align: center !important;
+    
+}
+
+.top{
+    font-size: larger;
+    font-weight: bold;
+    color: firebrick;
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+}
+
+
+
+h1{
+    text-align: center;
+    margin:80px !important;
+    color:#5D6D7E;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.rashan-packages{
+    margin-top: 40px;
+}
+
+h2{
+    margin-bottom: 50px;
+    text-decoration: underline;
+    color:#5D6D7E;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.gap{
+    margin: 70px;
+}
+
+.icons-bg{
+    background-color:#316DC3;
+    border-radius: 50px;
+    margin: 8px;
+    padding: 7px;  
+}
+
+hr{
+    background-color:green;  
+}
+
+.footer{
+    padding: 40px;
+}
+
+.copyright{
+    background-color:#316DC3;
+    text-align: center;
+    font-size: large;
+}
+
+.width{
+    width: 100% !important;
+}
